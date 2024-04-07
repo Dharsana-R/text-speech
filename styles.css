@@ -1,0 +1,31 @@
+/* styles.css */
+body {
+    background-color: #f0f2f6;
+    font-family: Arial, sans-serif;
+}
+
+.stTextInput>div>div>textarea {
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+
+.stSlider>div>div>div>div {
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.stButton>button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.stButton>button:hover {
+    background-color: #45a049;
+}
